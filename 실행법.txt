@@ -1,0 +1,3 @@
+node app > server 켜는 법
+
+npm run serve >client 켜는 법.
